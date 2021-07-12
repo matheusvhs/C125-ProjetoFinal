@@ -1,0 +1,11 @@
+1 - Charmander
+tipo: fogo;
+vida: 100;
+ataque: 25;
+defesa: 50;
+
+2 - Bulbassauro
+tipo: planta;
+vida: 100;
+ataque: 25;
+defesa: 50;
