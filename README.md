@@ -1,7 +1,6 @@
 # ProjetoC125-Final
  
  
-Matheus Vieira Honorio de Souza - GET - 9544.
+Matheus Vieira Honorio de Souza - GES
 
-
-Pedro Henrique Carmo Piantino - GET - 9378.
+Pedro Henrique Carmo Piantino - GET
